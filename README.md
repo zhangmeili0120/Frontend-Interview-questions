@@ -1,2 +1,2 @@
-# Frontend-Interview-questions
-Frontend Interview questions
+# Frontend-interview-questions
+Frontend interview questions
