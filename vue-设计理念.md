@@ -17,9 +17,7 @@
 
 
 
-![201806191038393](C:\Users\98267\Desktop\201806191038393.png)
-
-
+![渐进式的vue](https://upload-images.jianshu.io/upload_images/12341175-a51f9251b54b99e6.png?imageMogr2/auto-orient/strip|imageView2/2/w/550/format/webp)
 
 
 
